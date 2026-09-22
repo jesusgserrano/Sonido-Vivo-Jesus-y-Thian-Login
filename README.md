@@ -4,13 +4,13 @@
 - [Thian Pereira] - [thi.pereira@duocuc.cl]
 - [Jesus Serrano] - [jes.serrano@duocuc.cl]]
 
-## Caso
+## Caso:
 Sonido Vivo - Tienda de Instrumentos Musicales
 
-## Descripción del caso
+## Descripción del caso:
 Plataforma web orientada a la gestión y comercialización de instrumentos musicales y accesorios de audio. La aplicación permite a los clientes navegar por el catálogo de productos, gestionar un formulario de inicio de sesión seguro y visualizar la interfaz adaptada a diferentes pantallas. Busca resolver la interacción responsiva de manera ágil tanto en celulares, tablets y computadores de escritorio.
 
-## Estructura del proyecto
+## Estructura del proyecto:
 ```text
 src/
 ├── components/
