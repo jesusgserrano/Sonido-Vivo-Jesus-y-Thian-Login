@@ -3,6 +3,7 @@
 ## Integrantes:
 - [Thian Pereira] - [thi.pereira@duocuc.cl]
 - [Jesus Serrano] - [jes.serrano@duocuc.cl]]
+- [Constanza Carrasco] - [cons.carrascoc@duocuc.cl]]
 
 ## Caso:
 Sonido Vivo - Tienda de Instrumentos Musicales
