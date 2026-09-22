@@ -1,11 +1,11 @@
-# Nombre del Equipo: [Ingresa el Nombre de tu Equipo]
+# Nombre del Equipo: Grupo 12
 
 ## Integrantes
 - [Thian Pereira] - [thi.pereira@duocuc.cl]
 - [Jesus Serrano] - [jes.serrano@duocuc.cl]]
 
 ## Caso
-Sonido Vivo - Tienda de Instrumentos Musicales (o selecciona tu caso oficial: *Level-Up Gamer*, *Huerto Hogar* o *Pastelería Mil Sabores*)[cite: 2]
+Sonido Vivo - Tienda de Instrumentos Musicales
 
 ## Descripción del caso
 Plataforma web orientada a la gestión y comercialización de instrumentos musicales y accesorios de audio[cite: 2]. La aplicación permite a los clientes navegar por el catálogo de productos, gestionar un formulario de inicio de sesión seguro y visualizar la interfaz adaptada a diferentes pantallas[cite: 2]. Busca resolver la interacción responsiva de manera ágil tanto en celulares, tablets y computadores de escritorio[cite: 2].
