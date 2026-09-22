@@ -11,7 +11,7 @@ Sonido Vivo - Tienda de Instrumentos Musicales
 Plataforma web orientada a la gestión y comercialización de instrumentos musicales y accesorios de audio. La aplicación permite a los clientes navegar por el catálogo de productos, gestionar un formulario de inicio de sesión seguro y visualizar la interfaz adaptada a diferentes pantallas. Busca resolver la interacción responsiva de manera ágil tanto en celulares, tablets y computadores de escritorio.
 
 ## Estructura del proyecto
-
+```text
 src/
 ├── components/
 │   ├── atoms/
