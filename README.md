@@ -1,6 +1,6 @@
-# Nombre del Equipo: Grupo 12
+# Grupo 12
 
-## Integrantes
+## Integrantes:
 - [Thian Pereira] - [thi.pereira@duocuc.cl]
 - [Jesus Serrano] - [jes.serrano@duocuc.cl]]
 
