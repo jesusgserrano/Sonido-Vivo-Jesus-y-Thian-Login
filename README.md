@@ -1,4 +1,4 @@
-# Grupo 12
+# Grupo 7
 
 ## Integrantes:
 - [Thian Pereira] - [thi.pereira@duocuc.cl]
